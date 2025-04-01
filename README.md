@@ -1,2 +1,2 @@
-# HoC2_OI_313
+# FLAREAVERT
 Predict osteoarthritis (OA) and rheumatoid arthritis (RA) flares using hyperlocal weather + air quality data.
